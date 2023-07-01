@@ -1,0 +1,2 @@
+# ScrapsFromChatGPT
+ChatGPTの会話の答えをよしなにスクラップできるブラウザ拡張
